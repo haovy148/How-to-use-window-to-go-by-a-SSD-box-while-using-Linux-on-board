@@ -13,6 +13,10 @@
 
 ---
 
+
+##Video
+https://github.com/haovy148/How-to-use-window-to-go-by-a-SSD-box-while-using-Linux-on-board/issues/1#issue-4079517588
+
 ## Introduction
 
 Hi,

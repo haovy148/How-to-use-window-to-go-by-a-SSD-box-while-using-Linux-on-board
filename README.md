@@ -10,7 +10,7 @@
 - [Final Result](#final-result)
 
 Dual Boot Using an External SSD (Windows To Go)
-Introduction
+- [Introduction](#introduction)
 
 Hi,
 
@@ -18,7 +18,7 @@ This is my journey to dual boot using an external SSD. Dual booting on a single 
 
 Linux is fun, but Windows still has many things that Linux does not. If you like both systems, why not use both?
 
-Step 1 — Prepare the Windows Installer
+- [Step 1 — Prepare the Windows Installer](#step-1--prepare-the-windows-installer)
 
 First, you need a Windows laptop (you can borrow one from a friend for a few minutes). Install Windows 10 or Windows 11, depending on your laptop.
 
